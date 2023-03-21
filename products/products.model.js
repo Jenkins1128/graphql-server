@@ -19,7 +19,7 @@ function getAllProducts() {
 
 function getProductByPrice(min, max) {
     return products.filter((product) => {
-        return product.price >= min & product.price <= max;
+        return product.price >= min && product.price <= max;
     });
 }
 
