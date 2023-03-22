@@ -2,7 +2,7 @@
 
 About: 
 
-A simple graphql apollo server that demonstrates an e-commerence schema.
+A simple graphql apollo server that demonstrates an e-commerce schema.
 
 ## Technologies
 
